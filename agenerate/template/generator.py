@@ -227,3 +227,6 @@ class Generator:
 
     def to_yaml(self):
         return self.__setup_template().to_json()
+
+    def to_dict(self):
+        return self.__setup_template().to_dict()

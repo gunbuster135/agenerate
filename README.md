@@ -19,6 +19,8 @@ To generate the sample template run the following command:
     agenerate --help
 
  ### Tests
+ To run all tests, run the following in the project directory:
 
 
+    python -m unittest discover
 
