@@ -4,7 +4,7 @@ Create's a sample Cloudformation template with the power of Toposphere
 ### Install Instructions
 Run the following commands to install:
 
-    git clone länk
+    git clone https://github.com/gunbuster135/agenerate.git
     cd agenerate
     python setup.py install
 
